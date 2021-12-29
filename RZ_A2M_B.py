@@ -1,0 +1,6 @@
+Start = '//*[@id="stepformcontainer"]/tx-elements/div[2]/div/tx-elements[5]/div[2]/div/div/div/button'
+Stop = '//*[@id="stepformcontainer"]/tx-elements/div[2]/div/tx-elements[6]/div[2]/div/div/div/button'
+LS_Max = '//*[@id="e91a76ee-fa16-34e7-ebf6-83f1adb9eb78"]/div/tx-elements/div[2]/div/div/div[1]/div/div[1]'
+MS_Max = '//*[@id="0ed6927c-1697-93c3-3a62-72449b42176f"]/div/tx-elements/div[2]/div/div/div[1]/div/div[1]'
+SD_Video = '//*[@id="{{}}"]/div[2]/div/div/div/span[2]/label'
+URL = 'https://renesas.evmlabs.com/user/form6156cdf2c555b031526608e1?APP=5f12f3d2c555b026c55ae500'

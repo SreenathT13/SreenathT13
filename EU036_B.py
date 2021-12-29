@@ -1,0 +1,5 @@
+P2_Sensor_Control = '//*[@id="f70d3edd-8b07-3e62-87d8-21f7f90b8feb"]/span[5]'
+Live_Setup_Video_Max ='//*[@id="785b567d-5414-edfb-01da-d05b1ae2d49e"]/div/tx-elements/div[2]/div/div/div[1]/div/div[1]'
+TS_Control ='//*[@id="stepformcontainer"]/tx-elements[1]/div[2]/div/div/div/div/label/span'
+Sim_W_B ='//*[@id="switch2e7637b2-e0dc-d47e-715e-517f836cd225"]'
+URL = 'https://renesas.evmlabs.com/user/form61239510c555b04ec32b5827?APP=5f12f3d2c555b026c55ae500'
