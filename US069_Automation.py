@@ -52,8 +52,8 @@ time.sleep(15)
 board.browser.find_element(By.XPATH, US069_B.Ignition_ON).click()
 time.sleep(3)
 print_log("Ignition Turned ON")
-RPM = board.browser.find_element(By.XPATH, US069_B.RPM_Slider)
-ActionChains(board.browser).move_to_element(RPM).click_and_hold(RPM).pause(2).move_by_offset(80, 0).release().perform()
+#RPM = board.browser.find_element(By.XPATH, US069_B.RPM_Slider)
+#ActionChains(board.browser).move_to_element(RPM).click_and_hold(RPM).pause(2).move_by_offset(80, 0).release().perform()
 
 
 #print_log("Changed RPM value")
